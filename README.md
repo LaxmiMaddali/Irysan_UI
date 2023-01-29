@@ -2,7 +2,9 @@
 
 prerequisities to run the project
 
-  1. install node
+    install node
+
+To setup and run the project:
 
 1. git clone the project
 
