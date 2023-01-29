@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "cypress run --spec \"**/*.feature\""
+    "test": "cypress run --spec \"**/*.feature\"",
+    "cy:open" : "cypress open"
   },
   "author": "",
   "license": "ISC",
