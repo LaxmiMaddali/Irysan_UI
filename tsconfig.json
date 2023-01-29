@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "rootDir": "..",
+    "types": ["cypress", "node"],
+    "typeRoots": ["cypress"],
+    "module": "CommonJS",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "allowJs": true,
+    "baseUrl": "./"
+  },
+  "include": ["../node_modules/cypress", "./**/**/*.ts", "./**/*.ts", "./**/*.tsx"]
+}
